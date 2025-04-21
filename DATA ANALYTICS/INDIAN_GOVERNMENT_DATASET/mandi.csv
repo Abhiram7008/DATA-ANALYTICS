@@ -1,0 +1,19 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Haryana,Faridabad,Faridabad,Cucumbar(Kheera),Other,FAQ,16/03/2025,800,1200,1000
+Haryana,Faridabad,Faridabad,Grapes,Other,Large,16/03/2025,4000,7000,5500
+"West Bengal",Puruliya,Kasipur,"Masur Dal","Masur Dal",FAQ,16/03/2025,9400,9600,9500
+"West Bengal",Puruliya,Kasipur,Onion,Other,FAQ,16/03/2025,2500,2800,2600
+"West Bengal",Puruliya,Kasipur,Rice,Other,FAQ,16/03/2025,3450,3600,3560
+Haryana,Faridabad,Faridabad,Orange,Other,Large,16/03/2025,2500,5000,4000
+Haryana,Faridabad,Faridabad,"Water Melon",Other,Large,16/03/2025,1000,1500,1300
+"West Bengal",Puruliya,Kasipur,Brinjal,Other,FAQ,16/03/2025,2200,2400,2300
+"West Bengal",Puruliya,Kasipur,Potato,Jyoti,FAQ,16/03/2025,900,940,920
+Haryana,Faridabad,Faridabad,Grapes,Other,Large,16/03/2025,4000,7000,5500
+Telangana,Khammam,Kothagudem,Cotton,"Cotton (Unginned)",FAQ,16/03/2025,7300,7300,7300
+"West Bengal",Puruliya,Kasipur,Brinjal,Other,FAQ,16/03/2025,2200,2400,2300
+"West Bengal",Puruliya,Kasipur,"Mustard Oil",Other,FAQ,16/03/2025,15300,15500,15400
+Haryana,Faridabad,Faridabad,Cauliflower,Cauliflower,FAQ,16/03/2025,500,800,650
+Haryana,Faridabad,Faridabad,"Peas Wet",Other,FAQ,16/03/2025,2000,2500,2250
+Telangana,Khammam,Kothagudem,Cotton,"Cotton (Unginned)",FAQ,16/03/2025,7300,7300,7300
+"West Bengal",Puruliya,Kasipur,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/03/2025,3500,3700,3600
+"West Bengal",Puruliya,Kasipur,"Mustard Oil",Other,FAQ,16/03/2025,15300,15500,15400
